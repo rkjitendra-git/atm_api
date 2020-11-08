@@ -4,13 +4,13 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.learning.atm.model.Account;
-import com.learning.atm.repository.ATMRepository;
+import com.learning.atm.repository.ATMRepositoryImpl;
 
 @Service
 public class ATMServiceImpl implements IATMService {
 	
 	@Autowired
-	ATMRepository atmRepository;
+	ATMRepositoryImpl atmRepository;
 
 	
 
