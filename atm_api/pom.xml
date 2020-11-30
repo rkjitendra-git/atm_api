@@ -8,8 +8,8 @@
 		<version>2.3.0.M1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.javatpoint</groupId>
-	<artifactId>spring-boot-crud-operation</artifactId>
+	<groupId>atmapi</groupId>
+	<artifactId>atm_api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-crud-operation</name>
 	<description>Demo project for Spring Boot</description>
